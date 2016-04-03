@@ -1,0 +1,4 @@
+test:
+  override:
+    - sleep 60
+    - exit 0
